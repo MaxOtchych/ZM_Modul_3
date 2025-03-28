@@ -23,7 +23,37 @@ quiz_fragen = [
         "frage": "Welches Widget wird für Scrollbars in Tkinter verwendet?",
         "optionen": ["A) ScrollFrame", "B) ttk.Scroll", "C) tk.Scrollbar", "D) tk.Scroll"],
         "antwort": "C"
-    }
+    },
+        {
+        "frage": "Wie fängt man alle Exceptions in Python?",
+        "optionen": ["A) try:", "B) except Exception:", "C) catch:", "D) finally:"],
+        "antwort": "B"
+    },
+    {
+        "frage": "Welche Methode wird verwendet, um eine Liste in Python umzukehren?",
+        "optionen": ["A) list.reverse()", "B) list.flip()", "C) list.invert()", "D) list.sort(reverse=True)"],
+        "antwort": "A"
+    },
+    {
+        "frage": "Welches Modul wird für HTTP-Anfragen in Python verwendet?",
+        "optionen": ["A) http", "B) requests", "C) urllib", "D) socket"],
+        "antwort": "B"
+    },
+    {
+        "frage": "Was ist der Output von 'Hello' + 3 in Python?",
+        "optionen": ["A) 'Hello3'", "B) TypeError", "C) 'HelloHelloHello'", "D) '3Hello'"],
+        "antwort": "B"
+    },
+    {
+        "frage": "Wie importiert man eine Funktion aus einem Modul?",
+        "optionen": ["A) import function from module", "B) from module import function", "C) include module.function", "D) using module.function"],
+        "antwort": "B"
+    },
+    {
+        "frage": "Was macht die 'with'-Anweisung in Python?",
+        "optionen": ["A) Erstellt einen Context Manager", "B) Definiert einen Codeblock", "C) Importiert mehrere Module", "D) Führt parallele Ausführung durch"],
+        "antwort": "A"
+    },
 ]
 
 # Initialisierung der App
